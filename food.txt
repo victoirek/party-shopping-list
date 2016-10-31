@@ -4,3 +4,6 @@ tofu
 ravioli
 lays
 oreos
+clementine
+spaghetti
+steak

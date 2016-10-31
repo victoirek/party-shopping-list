@@ -4,3 +4,6 @@ malbec
 coca cola
 gin
 lemonade
+water
+beer
+red wine
