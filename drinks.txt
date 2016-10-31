@@ -1,3 +1,6 @@
 prosecco
 apple juice
 malbec
+coca cola
+gin
+lemonade
