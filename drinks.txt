@@ -7,3 +7,6 @@ lemonade
 water
 beer
 red wine
+merlot
+vodka
+sauvignon
