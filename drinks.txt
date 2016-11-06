@@ -1,12 +1,20 @@
-prosecco
-apple juice
-malbec
-coca cola
-gin
-lemonade
-water
-beer
-red wine
-merlot
-vodka
-sauvignon
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Pan-Pan</title>
+        <link rel="stylesheet" type="text/css" href="panpan.css">
+</head>
+<body>
+<ul>
+<li><a href=url"#"><Places></a></li>
+<li><a href=url"#"><Politics></a></li>
+<li>a href="url"#"><Plate></a></li>
+<li>a href="url"#"><Fashion></a></li>
+</ul>
+
+
+
+</body>
+</html>
+
